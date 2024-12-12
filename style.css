@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+#searchInput {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    text-align: center;
+    color: black;
+  }
+}
+#searchInput:focus {
+  outline: none;
+  border-color: blue;
+  box-shadow: blueviolet;
+}

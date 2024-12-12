@@ -1,0 +1,47 @@
+[
+  {
+    "movie_name": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Science Fiction, Thriller",
+    "rating": 8.8,
+    "release_year": 2010,
+    "synopsis": "A skilled thief, who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to have his criminal record erased if he can successfully perform an inception on a target's mind.",
+    "image_url": "https://example.com/images/inception-poster.jpg"
+  },
+  {
+    "movie_name": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genre": "Drama",
+    "rating": 9.3,
+    "release_year": 1994,
+    "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image_url": "https://example.com/images/shawshank-poster.jpg"
+  },
+  {
+    "movie_name": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Action, Crime, Drama",
+    "rating": 9.0,
+    "release_year": 2008,
+    "synopsis": "Batman faces the Joker, a criminal mastermind who wants to create chaos in Gotham City, and must confront his own moral dilemmas in order to protect the city and its citizens.",
+    "image_url": "https://example.com/images/dark-knight-poster.jpg"
+  },
+  {
+    "movie_name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "rating": 9.2,
+    "release_year": 1972,
+    "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "image_url": "https://example.com/images/godfather-poster.jpg"
+  },
+  {
+    "movie_name": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Adventure, Drama, Science Fiction",
+    "rating": 8.6,
+    "release_year": 2014,
+    "synopsis": "A group of explorers venture into space to travel through a wormhole in an attempt to ensure humanity's survival, as Earth faces impending extinction due to environmental disasters.",
+    "image_url": "https://example.com/images/interstellar-poster.jpg"
+  }
+]
